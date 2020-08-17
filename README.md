@@ -1,4 +1,4 @@
-# Session ID - Session Title
+# ANA368 - Integration of SAP Data Warehouse Cloud with SAP BW/4HANA
 
 ## Description
 
