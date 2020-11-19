@@ -6,7 +6,7 @@ This repository contains the material for the SAP TechEd 2020 session called ANA
 
 ## Overview
 
-This session introduces attendees to...
+This session introduces attendees to find out how the SAP Data Warehouse Cloud solution supports the line-of-business user to get the job done by flexibly connecting to and accessing data from different sources, such as local data and data stored in the SAP BW/4HANA solution. Create an extendable business semantic model in an agile way, connecting analytics and visualization components in the context of a hybrid data warehouse.
 
 ## Requirements
 
