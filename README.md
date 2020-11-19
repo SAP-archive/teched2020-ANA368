@@ -16,11 +16,6 @@ The requirements to follow the exercises in this repository are a base understan
 
 
 Start the exercises [here](exercises/ANA368_SAP_TechEd_2020.pdf).
-    
-
-**IMPORTANT**
-
-Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
 
 ## How to obtain support
 
