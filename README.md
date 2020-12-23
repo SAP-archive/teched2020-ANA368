@@ -1,4 +1,6 @@
 # ANA368 - Integration of SAP Data Warehouse Cloud with SAP BW/4HANA
+8
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2020-ANA368)](https://api.reuse.software/info/github.com/SAP-samples/teched2020-ANA36)
 
 ## Description
 
